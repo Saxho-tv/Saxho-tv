@@ -1,5 +1,15 @@
 # 💫 About Me:
-🇫🇷 Version Française<br>Bonjour, je m'appelle Saxho, également connu sous le nom de David.<br>Je suis développeur web spécialisé en HTML & CSS, JavaScript et Next.js.<br><br>Je travaille sur de nombreux projets de création de sites web et je développe également des applications modernes et performantes.<br>J’ai actuellement plusieurs projets en cours, toujours avec l’objectif d’améliorer mes compétences et de créer des solutions efficaces, propres et innovantes.<br><br>🇬🇧 English Version<br>Hello, my name is Saxho, also known as David.<br>I am a web developer specialized in HTML & CSS, JavaScript, and Next.js.<br><br>I work on various website development projects and also build modern, high-performance applications.<br>I currently have several projects in progress, always aiming to improve my skills and create clean, efficient, and innovative solutions.
+🇫🇷 Version Française<br>
+Bonjour, je m'appelle Saxho, également connu sous le nom de David.<br>
+Je suis développeur web avec des compétences en HTML & CSS, JavaScript et Next.js.<br><br>
+Je conçois et développe des sites web, des applications modernes ainsi que des scripts adaptés à différents besoins.<br>
+J’ai actuellement plusieurs projets en cours et je continue à développer de nouvelles solutions afin d’améliorer mes compétences et de proposer un code propre, performant et maintenable.<br><br>
+
+🇬🇧 English Version<br>
+Hello, my name is Saxho, also known as David.<br>
+I am a web developer skilled in HTML & CSS, JavaScript, and Next.js.<br><br>
+I design and develop websites, modern applications, and custom scripts for various needs.<br>
+I currently have multiple projects in progress and continuously build new solutions to improve my skills and deliver clean, efficient, and maintainable code.
 
 
 ## 🌐 Socials:
