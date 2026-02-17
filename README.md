@@ -137,7 +137,7 @@
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-david.martinho.01@outlook.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@davidcm.fr)
+[![Email](https://img.shields.io/badge/Email-contact@davidcm.fr-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@davidcm.fr)
 [![Portfolio](https://img.shields.io/badge/Portfolio-saxho.xyz-0077B5?style=for-the-badge&logo=firefox&logoColor=white)](https://saxho.xyz)
 [![GitHub](https://img.shields.io/badge/GitHub-Saxho--tv-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Saxho-tv)
 
