@@ -66,8 +66,8 @@ I build modern, scalable and high-performance applications with a strong focus o
 
 ## 📫 Contact
 
-📩 contact@saxho.xyz  
-🌍 Portfolio: (ajoute ton lien ici)
+📩 contact@davidcm.fr  
+🌍 Portfolio: https://saxho.xyz
 
 ---
 
