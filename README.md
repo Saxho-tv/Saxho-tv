@@ -120,12 +120,12 @@
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Saxho-tv&theme=blueberry&hide_border=true&include_all_commits=true&count_private=true)
 ![Streak](https://nirzak-streak-stats.vercel.app/?user=Saxho-tv&theme=blueberry&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saxho-tv&theme=blueberry&hide_border=true&layout=compact)
 
 ![Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saxho-tv&theme=blueberry)
 ![Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Saxho-tv&theme=blueberry)
+![TopLangue](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Saxho-tv&theme=blueberry)
+![TopStats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Saxho-tv&theme=blueberry)
 ![Commits](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Saxho-tv&theme=blueberry)
 ![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Saxho-tv&theme=blueberry&utcOffset=2)
 
