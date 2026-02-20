@@ -2,7 +2,7 @@
 
 <div align="center">
 
-🇫🇷 **Version Française** | 🇬🇷 **English Version**
+🇫🇷 **Version Française** | 🇬🇧 **English Version**
 
 </div>
 
