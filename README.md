@@ -120,7 +120,6 @@
 
 <div align="center">
 
-![Streak](https://nirzak-streak-stats.vercel.app/?user=Saxho-tv&theme=blueberry&hide_border=true)
 
 ![Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saxho-tv&theme=blueberry)
 ![Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Saxho-tv&theme=blueberry)
