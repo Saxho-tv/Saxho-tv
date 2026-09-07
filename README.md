@@ -10,23 +10,23 @@
 
 ## 🇫🇷 Bonjour, je suis David (Saxho)
 
-> Développeur Web & Passionné d'Infrastructure | Étudiant en Bac Pro CIEL
+> Développeur Web & Passionné d'Infrastructure | Étudiant en BTS SIO Option SISR
 
 🔹 Je conçois et développe des sites web, des applications modernes et des scripts sur mesure.<br>
 🔹 Je gère une infrastructure personnelle sous Linux avec Docker, en expérimentant la conteneurisation, les sauvegardes et les services réseau.<br>
 🔹 Rigoureux et autonome, je porte une attention particulière à la sécurité, la performance et la maintenabilité du code.<br>
-🔹 Actuellement en recherche d'une **alternance en BTS SIO option SISR** pour septembre 2026.
+🔹 Actuellement en **alternance en BTS SIO option SISR** chez [Alhoia](https://alohia.fr/).
 
 ---
 
 ## 🇬🇧 Hello, I'm David (Saxho)
 
-> Web Developer & Infrastructure Enthusiast | Bac Pro CIEL Student
+> Web Developer & Infrastructure Enthusiast | BTS SIO Option SISR Student
 
 🔹 I design and develop websites, modern applications, and custom scripts for various needs.<br>
 🔹 I maintain a personal Linux infrastructure using Docker, experimenting with containerization, backups, and network services.<br>
 🔹 Detail-oriented and self-motivated, I prioritize security, performance, and maintainable code.<br>
-🔹 Currently seeking an **apprenticeship for BTS SIO SISR** starting September 2026.
+🔹 Currently **apprenticeship for BTS SIO SISR** in [Alhoia](https://alohia.fr/).
 
 ---
 
